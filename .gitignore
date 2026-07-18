@@ -1,0 +1,22 @@
+# Build output
+build/
+*.o
+*.out
+*.exe
+coffee_pos
+
+# CMake generated
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile.cmake
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo

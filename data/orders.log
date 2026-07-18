@@ -1,0 +1,2 @@
+# 訂單紀錄 (v2-extended 實作後自動寫入)
+# 格式: timestamp,product_id,product_name,qty,total

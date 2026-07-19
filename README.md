@@ -75,6 +75,3 @@ make
 - C++17
 - GCC / Clang
 - CMake 3.15+
-
-## 學習資源
-- [台大孔令傑「程式設計 C++」完整課程 (YouTube)](https://www.youtube.com/playlist?list=PLMHSr8fseBzUvwjKtR6pX0Vv9Q9H-V3lY)
